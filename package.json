@@ -1,0 +1,18 @@
+{
+  "name": "bepal-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.9",
+    "nodemon": "^1.18.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deersil",
+  "license": "ISC"
+}
